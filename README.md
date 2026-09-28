@@ -47,6 +47,9 @@ WiFi connected
 IP: 192.168.1.105
 
 Temperature: 27.4 C | Humidity: 61.2 %
+
 Temperature: 27.5 C | Humidity: 61.0 %
+
 Temperature: 27.6 C | Humidity: 60.8 %
+
 Temperature: 27.5 C | Humidity: 61.1 %
